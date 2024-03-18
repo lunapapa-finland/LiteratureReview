@@ -11,7 +11,7 @@
 
 - S. A. Gautam and N. Verma, ‘‘Path planning for unmanned aerial vehicle based on genetic algorithm & artificial neural network in 3D,’’ in Proc. Int. Conf. Data Mining Intell. Comput. (ICDMIC), Sep. 2014, pp. 1–5.
 
--   W.Zhang,W.Zhang,F.Song,andL.Long,‘‘Monocularvisionobstacle avoidance method for quadcopter based on deep learning,’’ J. Comput. Appl., vol. 39, no. 4, p. 1001, 2019.
+-   W.Zhang,W.Zhang,F.Song,andL.Long,‘‘Monocular vision obstacle avoidance method for quadcopter based on deep learning,’’ J. Comput. Appl., vol. 39, no. 4, p. 1001, 2019.
 
 -   Y.Xiao,Z.Tian,J.Yu,Y.Zhang,S.Liu,S.Du,andX.Lan,‘‘Areview of object detection based on deep learning,’’ Multimedia Tools Appl., vol. 79, nos. 33–34, pp. 23729–23791, Sep. 2020, doi: 10.1007/s11042- 020-08976-6.
 
