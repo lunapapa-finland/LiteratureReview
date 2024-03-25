@@ -1,7 +1,7 @@
 ---
 date: 2023
 link: https://www.sciencedirect.com/science/article/pii/S0921889023001720
-Keyword: Optical flow, 
+Keyword:
 ---
 
 ## Summary
